@@ -9,7 +9,7 @@ Write a function `ReverseCharacters` that takes a single string as input. Withou
 
 ## The Code 
 ``` javascript code
-function ReversalCharacters(characters){
+function ReverseCharacters(characters){
     let reverse = "";
     for(let i = characters.length - 1 ; i >= 0 ; i--){
         reverse += characters[i];
@@ -21,4 +21,4 @@ const characters = "Javascript";
 
 console.log("The Orginal Word : " + characters);  // output  =>      Javascript
 
-console.log("The Reverse Characters : " + ReversalCharacters(characters));   // output =>    tpircsavaJ
+console.log("The Reverse Characters : " + ReverseCharacters(characters));   // output =>    tpircsavaJ
