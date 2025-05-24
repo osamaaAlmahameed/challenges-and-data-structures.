@@ -4,7 +4,7 @@
 Write a function `ReverseCharacters` that takes a single string as input. Without using any built-in methods should return the string with all characters reversed.
 
 
-![Screenshot](Reverse-Characters/screenshoot.png)
+![Screenshot](Reverse-Characters/screenshooot.png)
 
 ``` javascript code
 function ReversalCharacters(Word){
