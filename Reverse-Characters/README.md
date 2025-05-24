@@ -15,3 +15,6 @@ function ReversalCharacters(Word){
 const Word = "Javascript";
 
 console.log(ReversalCharacters(Word))
+
+
+![Screenshot](Reverse-Characters/screenshoot.png)
