@@ -6,3 +6,5 @@
 
 ![Array Reversal](https://github.com/osamaaAlmahameed/challenges-and-data-structures./blob/main/MinmimValue.jpg?raw=true)
 
+![Array Reversal](https://github.com/osamaaAlmahameed/challenges-and-data-structures./blob/main/Screenshot 2025-05-24 141210.png.jpg?raw=true)
+
