@@ -6,6 +6,8 @@ Write a function `ReverseCharacters` that takes a single string as input. Withou
 ## Reverse Characters Output
 ![Screenshot](https://raw.githubusercontent.com/osamaaAlmahameed/challenges-and-data-structures./85f71084bcabfff11a3987a90c9421871fe47005/Reverse-Characters/Screenshoot.png)
 
+
+## The Code 
 ``` javascript code
 function ReversalCharacters(characters){
     let reverse = "";
