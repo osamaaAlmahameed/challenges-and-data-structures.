@@ -4,6 +4,7 @@
 Write a function `ReverseCharacters` that takes a single string as input. Without using any built-in methods should return the string with all characters reversed.
 
 ## Reverse Characters Output
+
 ![Reverse Characters Screenshot](Reverse-Characters/Screenshoot.png)
 
 ``` javascript code
