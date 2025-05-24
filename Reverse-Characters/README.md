@@ -8,11 +8,11 @@ Write a function `ReverseCharacters` that takes a single string as input. Withou
 
 ``` javascript code
 function ReversalCharacters(characters){
-    let Reverse = "";
+    let reverse = "";
     for(let i = characters.length - 1 ; i >= 0 ; i--){
-        Reverse += characters[i];
+        reverse += characters[i];
     }
-    return Reverse ;
+    return reverse ;
 }
 
 const characters = "Javascript";
