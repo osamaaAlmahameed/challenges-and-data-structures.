@@ -3,6 +3,9 @@
 ## Challenge Description 
 Write a function `ReverseCharacters` that takes a single string as input. Without using any built-in methods should return the string with all characters reversed.
 
+
+![Screenshot](Reverse-Characters/screenshoot.png)
+
 ``` javascript code
 function ReversalCharacters(Word){
     let Reverse = "";
@@ -17,4 +20,3 @@ const Word = "Javascript";
 console.log(ReversalCharacters(Word))
 
 
-![Screenshot](Reverse-Characters/screenshoot.png)
