@@ -17,6 +17,6 @@ function ReversalCharacters(characters){
 
 const characters = "Javascript";
 
-console.log("The Orginal Word : " + characters);
+console.log("The Orginal Word : " + characters);  // output  =>      Javascript
 
-console.log("The Reverse Word : " + ReversalCharacters(characters));
+console.log("The Reverse Characters : " + ReversalCharacters(characters));   // output =>    tpircsavaJ
