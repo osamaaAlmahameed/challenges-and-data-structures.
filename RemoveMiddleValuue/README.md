@@ -5,4 +5,4 @@ Write a function called RemoveMiddleVaIue that takes in an array as its paramete
 
 
 ## The White Board
-![RemoveMiddleValue](https://github.com/osamaaAlmahameed/challenges-and-data-structures./blob/13dbaa780ae692bc5cd62d69cfe12e1c7a3f75ec/RemoveMiddleValue/images/RemoveMiddleValue.png)
+![RemoveMiddleValue](https://github.com/osamaaAlmahameed/challenges-and-data-structures./blob/13dbaa780ae692bc5cd62d69cfe12e1c7a3f75ec/RemoveMiddleValuue/RemoveMiddleValue.png)
