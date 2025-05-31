@@ -28,4 +28,4 @@ console.log("Remove Middel Value : " + RemoveMiddelValue(arr)); //   print Array
 ```
 
 ## Output 
-![RemoveMiddleValue](https://github.com/osamaaAlmahameed/challenges-and-data-structures./blob/13dbaa780ae692bc5cd62d69cfe12e1c7a3f75ec/RemoveMiddleValuue/Output.png)
+![RemoveMiddleValue](https://github.com/osamaaAlmahameed/challenges-and-data-structures./blob/13dbaa780ae692bc5cd62d69cfe12e1c7a3f75ec/RemoveMiddleValuue/output.png)
