@@ -25,7 +25,7 @@ let arr = [1,2,3,4,5]; // Orginal Array
 
 console.log("Orginal array : " + arr);   // print Orginal Array  ..
 
-console.log("Remove Middel Value : " + RemoveMiddelValue(arr)); //   print Array withoud Middle Value ..
+console.log("Remove Middel Value : " + RemoveMiddelValue(arr)); //   print Array without Middle Value ..
 
 ```
 
