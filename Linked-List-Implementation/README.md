@@ -52,3 +52,5 @@ The list should support adding, removing, searching, inserting, and printing ele
 | insertAt    | O(n)             | O(1)              |
 
 ---
+
+![Output](https://github.com/osamaaAlmahameed/challenges-and-data-structures./blob/e7d6ad22727c43da954b133390b53c3257c2459f/Linked-List-Implementation/console-output.png?raw=true)
