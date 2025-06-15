@@ -24,7 +24,7 @@ The list should support adding, removing, searching, inserting, and printing ele
 
 | Function       | Input           | Output                      
 |----------------|------------------|------------------------------
-| add            | 5, 10, 20       | Head => 5 => 10 => 20 => 30 => null   
+| add            | 5, 10, 20, 30   | Head => 5 => 10 => 20 => 30 => null   
 | remove         | 10              | Head => 5 => 20 => 30 => null        
 | includes       | 20              | true                        
 | includes       | 99              | false                       
