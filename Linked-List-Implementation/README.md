@@ -53,4 +53,3 @@ The list should support adding, removing, searching, inserting, and printing ele
 
 ---
 
-![Output](https://github.com/osamaaAlmahameed/challenges-and-data-structures./raw/5a32de5245def861c79f1a408523e427f7cbd62a/Linked-List-Implementation/console-output.png)
