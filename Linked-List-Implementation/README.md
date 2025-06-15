@@ -50,8 +50,3 @@ The list should support adding, removing, searching, inserting, and printing ele
 | insertAt    | O(n)             | O(1)              |
 
 ---
-
-## 🔧 How to Run
-
-```bash
-node app.js
