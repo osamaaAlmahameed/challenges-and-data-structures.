@@ -34,9 +34,9 @@ The list should support adding, removing, searching, inserting, and printing ele
 
 ## 🧪 Edge Cases
 
-- Printing an empty list → Output: Head → null
-- Removing from an empty list → No crash
-- Inserting at invalid index → Throws error
+- Printing an empty list .
+- Removing from an empty .
+- Inserting at invalid index .
 
 ---
 
