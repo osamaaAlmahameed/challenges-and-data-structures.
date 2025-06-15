@@ -28,7 +28,7 @@ The list should support adding, removing, searching, inserting, and printing ele
 | remove         | 10              | Head => 5 => 20 => 30 => null        
 | includes       | 20              | true                        
 | includes       | 99              | false                       
-| insertAt       | (15, 1)         | Head => 5 => 15 => 20 => null   
+| insertAt       | (35, 1)         | Head => 5 => 15 => 20 => null   
 
 ---
 
