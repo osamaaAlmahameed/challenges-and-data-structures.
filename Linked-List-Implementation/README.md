@@ -1,3 +1,6 @@
+![Whiteboard](https://github.com/osamaaAlmahameed/challenges-and-data-structures./raw/main/images/Whiteboard.png)
+
+
 # Singly Linked List Implementation
 
 ## 🧠 Problem Domain
