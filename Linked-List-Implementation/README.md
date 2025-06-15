@@ -1,4 +1,4 @@
-![Whiteboard](https://github.com/osamaaAlmahameed/challenges-and-data-structures./blob/e7d6ad22727c43da954b133390b53c3257c2459f/Linked-List-Implementation/Whiteboard.png?raw=true)
+
 
 
 # Singly Linked List Implementation
@@ -39,6 +39,8 @@ The list should support adding, removing, searching, inserting, and printing ele
 - Inserting at invalid index → Throws error
 
 ---
+
+![Whiteboard](https://github.com/osamaaAlmahameed/challenges-and-data-structures./blob/e7d6ad22727c43da954b133390b53c3257c2459f/Linked-List-Implementation/Whiteboard.png?raw=true)
 
 ## ⚙️ Big O Complexity
 
