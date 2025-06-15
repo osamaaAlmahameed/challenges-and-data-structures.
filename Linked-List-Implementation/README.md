@@ -13,19 +13,19 @@ The list should support adding, removing, searching, inserting, and printing ele
 - Remove a node by value.
 - Check if the list includes a specific value.
 - Insert a node at a specific index.
-- Print the list as a string: Head → 5 → 10 → 15 → null.
+- Print the list as a string: Head => 5 => 10 → 15 => null.
 
 ---
 
 ## 🔣 Inputs and Expected Outputs
 
-| Function       | Input           | Output                      |
-|----------------|------------------|------------------------------|
-| add            | 5, 10, 20       | Head → 5 → 10 → 20 → null   |
-| remove         | 10              | Head → 5 → 20 → null        |
-| includes       | 20              | true                        |
-| includes       | 99              | false                       |
-| insertAt       | (15, 1)         | Head → 5 → 15 → 20 → null   |
+| Function       | Input           | Output                      
+|----------------|------------------|------------------------------
+| add            | 5, 10, 20       | Head => 5 => 10 => 20 => null   
+| remove         | 10              | Head => 5 => 20 => null        
+| includes       | 20              | true                        
+| includes       | 99              | false                       
+| insertAt       | (15, 1)         | Head => 5 => 15 => 20 => null   
 
 ---
 
