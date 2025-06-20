@@ -40,11 +40,11 @@ The list should support adding, removing, searching, inserting, and printing ele
 
 ---
 
-![Whiteboard](https://github.com/osamaaAlmahameed/challenges-and-data-structures./blob/e7d6ad22727c43da954b133390b53c3257c2459f/Linked-List-Implementation/add.png?raw=true)
-![Whiteboard](https://github.com/osamaaAlmahameed/challenges-and-data-structures./blob/e7d6ad22727c43da954b133390b53c3257c2459f/Linked-List-Implementation/removing.png?raw=true)
-![Whiteboard](https://github.com/osamaaAlmahameed/challenges-and-data-structures./blob/e7d6ad22727c43da954b133390b53c3257c2459f/Linked-List-Implementation/printList.png?raw=true)
-![Whiteboard](https://github.com/osamaaAlmahameed/challenges-and-data-structures./blob/e7d6ad22727c43da954b133390b53c3257c2459f/Linked-List-Implementation/includes.png?raw=true)
-![Whiteboard](https://github.com/osamaaAlmahameed/challenges-and-data-structures./blob/e7d6ad22727c43da954b133390b53c3257c2459f/Linked-List-Implementation/insertAt.png?raw=true)
+![Add operation](https://raw.githubusercontent.com/osamaaAlmahameed/challenges-and-data-structures./0799097a039e06a5c29494c0ffcd02e6e45a20f9/Linked-List-Implementation/add.png)
+![Remove operation](https://raw.githubusercontent.com/osamaaAlmahameed/challenges-and-data-structures./0799097a039e06a5c29494c0ffcd02e6e45a20f9/Linked-List-Implementation/removing.png)
+![Print operation](https://raw.githubusercontent.com/osamaaAlmahameed/challenges-and-data-structures./0799097a039e06a5c29494c0ffcd02e6e45a20f9/Linked-List-Implementation/printList.png)
+![Includes operation](https://raw.githubusercontent.com/osamaaAlmahameed/challenges-and-data-structures./0799097a039e06a5c29494c0ffcd02e6e45a20f9/Linked-List-Implementation/includes.png)
+![insert operation](https://raw.githubusercontent.com/osamaaAlmahameed/challenges-and-data-structures./0799097a039e06a5c29494c0ffcd02e6e45a20f9/Linked-List-Implementation/insertAt.png)
 
 ## ⚙️ Big O Complexity
 
