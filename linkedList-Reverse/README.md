@@ -27,3 +27,8 @@ console.log('Original list:', list.toArray()); // [1, 2, 3, 4]
 list.reverse();
 
 console.log('Reversed list:', list.toArray()); // [4, 3, 2, 1]
+```
+
+##Whiteboard
+
+![Linked List Diagram](https://github.com/osamaaAlmahameed/challenges-and-data-structures./blob/b2fa65c303ec9225558fd714ddc23fd39bf45ef1/linkedList-Reverse/docs/whiteboard-reverse.png?raw=true)
