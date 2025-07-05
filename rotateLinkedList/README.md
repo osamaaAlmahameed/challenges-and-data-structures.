@@ -31,4 +31,3 @@ Output: `20 -> 5 -> 10 -> 15`
 ## Screenshot Output
 ![WhiteBorad of rotateLinkedList](rotateLinkedList_whiteBoard.png)
 ![output of rotateLinkedList](console-output.png)
-![WhiteBorad of rotateLinkedList](rotateLinkedList_whiteBoard.png)
