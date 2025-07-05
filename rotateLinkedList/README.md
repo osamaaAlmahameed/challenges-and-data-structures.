@@ -29,4 +29,4 @@ Output: `20 -> 5 -> 10 -> 15`
 - Space: O(1)
 
 ## Screenshot Output
-![Diagram of rotateLinkedList](rotateLinkedList/.png)
+![Diagram of rotateLinkedList](rotateLinkedList_whiteBoard.png)
