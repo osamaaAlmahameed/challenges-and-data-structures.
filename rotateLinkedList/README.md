@@ -29,4 +29,6 @@ Output: `20 -> 5 -> 10 -> 15`
 - Space: O(1)
 
 ## Screenshot Output
-![Diagram of rotateLinkedList](rotateLinkedList_whiteBoard.png)
+![WhiteBorad of rotateLinkedList](rotateLinkedList_whiteBoard.png)
+![output of rotateLinkedList](console-output.png)
+![WhiteBorad of rotateLinkedList](rotateLinkedList_whiteBoard.png)
