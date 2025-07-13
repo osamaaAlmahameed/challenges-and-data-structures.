@@ -16,6 +16,10 @@ JavaScript implementations of Stack and Queue data structures with Jest tests.
   - `peek()` - View front element
   - `isEmpty()` - Check if empty
 
+## WhiteBoard
+![Stack WhiteBoard](Stack-and-Queue-lmplementation/Stack-WhiteBoard.png)
+
+
 ## Installation
 ```bash
 npm install
