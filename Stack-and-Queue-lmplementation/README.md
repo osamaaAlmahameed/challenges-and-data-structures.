@@ -17,7 +17,7 @@ JavaScript implementations of Stack and Queue data structures with Jest tests.
   - `isEmpty()` - Check if empty
 
 ## WhiteBoard
-![Stack WhiteBoard](Stack-and-Queue-lmplementation/Stack-WhiteBoard.png)
+![Stack WhiteBoard](https://github.com/osamaaAlmahameed/challenges-and-data-structures./blob/main/Stack-and-Queue-lmplementation/Stack-WhiteBoard.png?raw=true)
 
 
 ## Installation
