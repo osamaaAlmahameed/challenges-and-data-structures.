@@ -1,0 +1,15 @@
+{
+  "name": "deletemiddleelement",
+  "version": "1.0.0",
+  "description": "Remove the middle element from a stack. If the stack has even elements, remove the *lower* middle.",
+  "main": "Stack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
