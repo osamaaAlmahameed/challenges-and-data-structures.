@@ -10,5 +10,5 @@ const stack = new StackWithDeleteMiddle();
 stack.deleteMiddle();
 // Output: Top -> 5 -> 8 -> 14 -> 7
 ```
-![Stack Example](https://github.com/osamaaAlmahameed/challenges-and-data-structures./blob/main/DeleteMiddleElement/White-Board.png?raw=true)
-![Stack Example](https://github.com/osamaaAlmahameed/challenges-and-data-structures./blob/main/DeleteMiddleElement/console.output.png?raw=true)
+![Stack Example](https://github.com/osamaaAlmahameed/challenges-and-data-structures./blob/main/DeleteMiddleElement/WhiteBoard.png?raw=true)
+![Stack Example](https://github.com/osamaaAlmahameed/challenges-and-data-structures./blob/main/DeleteMiddleElement/console-output.png?raw=true)
