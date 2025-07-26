@@ -1,6 +1,9 @@
-Min Stack Challenge
-Problem Domain
+## Min Stack Challenge
+###Problem Domain
 Implement a MinStack class in JavaScript that supports push, pop, top, isEmpty, getMin, and printStack operations, with getMin retrieving the minimum element in constant time complexity.
+
+install : npm init -y
+
 Inputs and Expected Outputs
 
 push(value): Adds value to stack top
@@ -102,8 +105,3 @@ Space Complexity:
 O(n) for main stack
 O(n) for minStack in worst case (when elements are pushed in descending order)
 
-
-
-Instructions to Update Root README
-Add the following to the Table of Contents in the root README.md:
-- [Min Stack Challenge](./Data Structures/StackAndQueue/Minstack/README.md)
