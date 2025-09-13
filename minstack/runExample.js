@@ -1,0 +1,16 @@
+const MinStack = require("./MinStack");
+const minStack = new MinStack();
+minStack.push(15);
+minStack.push(7);
+minStack.push(12);
+minStack.push(3);
+minStack.printStack();
+console.log("Min:", minStack.getMin());
+console.log("Popped:", minStack.pop());
+minStack.printStack();
+console.log("Min:", minStack.getMin());
+console.log("Top:", minStack.top());
+minStack.push(2);
+minStack.printStack();
+console.log("Min:", minStack.getMin());
+console.log("Is Empty:", minStack.isEmpty());
