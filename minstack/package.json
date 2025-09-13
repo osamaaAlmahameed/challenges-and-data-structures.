@@ -1,0 +1,15 @@
+{
+  "name": "min-stack-challenge",
+  "version": "1.0.0",
+  "description": "Min Stack Challenge\r Problem Domain\r Implement a MinStack class in JavaScript that supports push, pop, top, isEmpty, getMin, and printStack operations, with getMin retrieving the minimum element in constant time complexity.\r Inputs and Expected Outputs",
+  "main": "min-stack.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
